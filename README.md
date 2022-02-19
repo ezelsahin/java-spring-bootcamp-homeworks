@@ -130,3 +130,62 @@ This repository contains answers of several questions.
 
 
 
+**HW#5**
+
+**1** – What are Authentication and Authorization?
+
+**2** - What is Hashing in Spring Security?
+
+**3** - What is Salting and why do we use the process of Salting?
+
+**4** - What is “intercept-url” pattern?
+
+**5** - What does it mean by session management in Spring Security?
+
+**6** – Why we need Exception Handling?
+
+**7** - Explain what is AuthenticationManager in Spring security?
+
+**8** - What is Spring Security Filter Chain?
+
+**9** – What are the differences between OAuth2 and JWT?
+
+**10** - What is method security and why do we need it?
+
+**11** – What Proxy means and how and where can be used?
+
+**12** – Waht is Wrapper Class and where can be used?
+
+**13** – What is SSL? What is TLS? What is the difference? How can we use them?
+
+
+
+**HW#6**
+
+**1** – What is the difference between manual testing and automated testing?
+
+**2** – What does Assert class do?
+
+**3** - How can be tested 'private' methods?
+
+**4** – What is Monolithic Architecture?
+
+**5** - What are the best practices to write a Unit Test Case?
+
+**6** - Why does JUnit only report the first failure in a single test?
+
+**7** - What are the benefits and drawbacks of Microservices?
+
+**8** - What is the role of actuator in spring boot?
+
+**9** - What are the challenges that one has to face while using Microservices?
+
+**10** - How independent microservices communicate with each other?
+
+**11** - What do you mean by Domain driven design?
+
+**12** – What is container in Microservices?
+
+**13** - What are the main components of Microservices architecture?
+
+**14** - How does a Microservice architecture work?
